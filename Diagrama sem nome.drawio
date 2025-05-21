@@ -613,7 +613,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hWpidcnC6tugBeaJJdCY-155" value="Contabilidade" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=light-dark(#ffea00, #a66d91);" vertex="1" parent="1">
+        <mxCell id="hWpidcnC6tugBeaJJdCY-155" value="DNAs" style="swimlane;html=1;startSize=20;horizontal=0;fillColor=light-dark(#ffea00, #a66d91);" vertex="1" parent="1">
           <mxGeometry x="185" y="729" width="3985" height="150" as="geometry">
             <mxRectangle y="320" width="760" height="20" as="alternateBounds" />
           </mxGeometry>
